@@ -1,6 +1,9 @@
 # Your Project's Name
+Project Name: Immersive DataCamp
 
 One or two paragraphs providing an overview of your project. Tell us about your project.
+
+This project overviews the integration of various modules into one, immersing in an interdisciplinary coordination to work together to come up with a high-quality design at the very end, and camps the required data into a single studio to collaborate.
 
 Essentially, this part is your sales pitch.
  
@@ -16,8 +19,13 @@ These files should themselves either be included as a pdf file in the project it
 Include the Adobe XD wireframe as a folder. You can include the XD share url. 
 
 ## Features
-
 In this section, you should go over the different parts of your project, and describe each in a sentence or so.
+
+3DF: Low Poly with UV Unwraps of COVID-19 Virus, render a 3D virus model with 3D modelling, UV unwrapping, & Arnold rendering, and bake textures & paint in Substance Painter, then export with Marmoset.
+AD: Interactive XD mobile app based on COVID-19 with a consumer user experience.
+GC: A proposed document of COVID-19 with willing and unwilling user types with reward loops and activities.
+ID: Interactive web application of COVID-19 with HTML, CSS, JavaScript, and JQuery languages with interface and animation.
+PMT: Production management of the COVID-19 application with process.
  
 ### Existing Features
 - Feature 1 - allows users X to achieve Y, by having them fill out Z
@@ -29,6 +37,29 @@ In addition, you may also use this section to discuss plans for additional featu
 - Another feature idea
 
 ## Technologies Used
+
+3DF:
+Maya: https://www.autodesk.com.sg/products/maya/overview, this is used to construct a 3D model, unwrap its UV, and Arnold render.
+Substance Painter: https://www.substance3d.com/, this is used to bake the 3D model's textures and paint them.
+Marmoset: https://marmoset.co/, this is used to animate the textured 3D model.
+
+AD:
+Adobe XD: https://www.adobe.com/sg/products/xd.html, this is used to design the wireframe and final product of the app.
+Photoshop: https://www.adobe.com/sg/products/photoshop.html, this is used to design the app's assets.
+Illustrator: https://www.adobe.com/sg/products/illustrator.html, same as Photoshop.
+
+GC: Design Document, with gamified concepts with player types, rewards, and activities.
+
+ID:
+HTML: https://html.com/, this is used to define the webpage's content.
+CSS: https://www.w3schools.com/css/, this is used to style the webpage to describe its presentation.
+JavaScript: https://www.javascript.com/, this is used to make the webpage interactive to engage users.
+JQuery: https://jquery.com/, this is used to simplify JavaScript programming to handle events, CSS, and Ajax.
+Github: https://github.com/, this is used to commit ID repositories there as well as submission.
+
+PMT:
+Jira: https://www.atlassian.com/software/jira, this is used to track down progress of the application development.
+Microsoft Teams: https://www.microsoft.com/en-sg/microsoft-teams/log-in, this is used to conduct Standup/Retrospective Meetings to share user stories with tasks and bugs.
 
 In this section, you should mention all of the languages, frameworks, libraries, and any other tools that you have used to construct this project. For each, provide its name, a link to its official site and a short sentence of why it was used.
 
